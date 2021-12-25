@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Front-end Engineer - F1 [Online]",
+      "decs": "Lộ trình F1 giúp bạn từ một người chưa biết gì về lập trình trở thành một người có nền tảng lập trình vững chắc và chuyên sâu Front-end, trở thành Front-end Engineer hay Front-end Developer chuyên nghiệp."
+    },
+    {
+      "id": 2,
+      "name": "Front-end Engineer - F2 [Online]",
+      "decs": "Lộ trình F2 dành cho các học viên đã thành thạo một ngôn ngữ lập trình nào đó (ví dụ: JavaScript) và muốn trở thành một Front-end Engineer / Developer chuyên nghiệp."
+    },
+    {
+      "id": 3,
+      "name": "Front-end Engineer - F3 [Online]",
+      "decs": "Lộ trình F3 dành cho học viên đã thành thạo HTML, CSS, JS, sẵn sàng học chuyên sâu về Front-end cùng với các công nghệ phổ biến."
+    },
+    {
+      "id": 4,
+      "name": "Lập trình ReactJS chuyên sâu [Online]",
+      "decs": "Khóa học phù hợp với học viên: muốn hoàn thiện bộ kỹ năng của một Front-end Engineer / Devloper, sẵn sàng làm việc tại các công ty công nghệ; muốn phát triển Single Page Application với ReactJS từ cơ bản đến nâng cao; muốn nâng cao năng lực lập trình với ReactJS, xây dựng những sản phẩm chất lượng, tối ưu."
+    },
+    {
+      "id": 5,
+      "name": "Lập trình web Node.js",
+      "decs": "Nắm vững khoá học này, bạn sẽ tự tin apply bất cứ vị trí nào về back-end dev với Nodejs. Một công nghệ mới mở ra những thăng hoa trong nghề nghiệp lập trình viên back-end."
+    },
+    {
+      "id": 6,
+      "name": "CI/CD sử dụng Docker & Jenkins Pipelines T9",
+      "decs": "Khoá học hướng đến những học viên đam mê và mong muốn theo đuối vị trí Devops. Đây cũng là 1 kỹ năng quan trọng khi định hướng phát triển theo lộ trình fullstack developer. Nắm được kỹ năng này trong này, học viên sẽ tự tin để trở thành 1 devops engineer thực sự."
+    }
+  ]
+}

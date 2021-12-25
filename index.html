@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kmin Courses</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <h1>Các khóa học tại Kmin:</h1>
+    <ul class="courser-list"></ul>
+    <!-- add courses -->
+    <h1>Thêm khóa học</h1>
+    <form class="add-course" onsubmit="false">
+     
+        <input type="text" placeholder="Tên khóa học" id="course-name" />
+        <textarea
+          id="course-desc"
+          name="course-desc"
+          cols="30"
+          rows="10"
+          placeholder="Mô tả"
+        ></textarea>
+      
+      <button class="add-btn">Thêm</button>
+    </form>
+    <script src="./main.js"></script>
+  </body>
+</html>
